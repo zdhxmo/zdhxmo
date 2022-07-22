@@ -8,4 +8,4 @@
 <br />
 
 
-- 🌱 I’m currently learning the jamStack and writing secure smart contracts.
+- 🌱 Currently learning how projects interact with the ChainLink protocol
